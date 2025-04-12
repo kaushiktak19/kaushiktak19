@@ -1,6 +1,6 @@
 # Hey, I'm Kaushik Tak! 👋
 
-I build web apps from scratch, frontend to backend, deploy them to the cloud, and set up slick CI/CD pipelines. I’m always learning new tech (it’s the job, right?) and love experimenting with AI APIs to create cool generative experiences. Oh, and I keep my problem solving sharp with competitive programming.
+I build web apps from scratch, frontend to backend, deploy them to the cloud, and set up slick CI/CD pipelines. I’m always learning new tech (it’s the job, right?) and love experimenting with AI APIs to create cool generative experiences. Also, I try keep my problem solving sharp with competitive programming.
 
 ---
 
