@@ -5,9 +5,10 @@ I build web apps from scratch, frontend to backend, deploy them to the cloud, an
 ---
 
 ## 💼 Experience
-- **Fullstack Developer Intern, MoveLogic AI** (Mar 2025–Present)  
-    
-- **Fullstack Developer Intern, Matlync** (Jul 2024–Sep 2024)  
+- **Fullstack Developer Intern, MoweLogic AI** (Mar 2025–Present)  
+  Integrating AI pipelines into logistics platforms, optimizing pricing with Google APIs, and building dynamic React forms.  
+- **Fullstack Developer Intern, Matlyne** (Jul 2024–Sep 2024)  
+  Built features for a B2B SaaS platform, revamped UI, implemented backup-sync data feature and boosted API performance with Node.js and express.
   
 
 ---
@@ -24,3 +25,7 @@ I build web apps from scratch, frontend to backend, deploy them to the cloud, an
   Secure P2P file-sharing app with WebRTC for direct transfers, deployed on AWS with Docker and Node.js.  
 
 ---
+
+## 📊 My GitHub Stats
+![Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushiktak19&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushiktak19&layout=compact&theme=radical&hide=html,css,scss,jupyter%20notebook&size_weight=0.5&count_weight=0.5&langs_count=8&cache_seconds=21600)
