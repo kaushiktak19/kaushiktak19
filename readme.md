@@ -5,7 +5,7 @@ I build web apps from scratch, frontend to backend, deploy them to the cloud, an
 ---
 
 ## 💼 Experience
- **Fullstack Developer Intern, MoweLogic AI** (Mar 2025–Present)  
+ **Fullstack Developer Intern, MoveLogic AI** (Mar 2025–Present)  
  > Integrating AI pipelines into logistics platforms, optimizing pricing with Google APIs, and building dynamic React forms. 
 
  **Fullstack Developer Intern, Matlyne** (Jul 2024–Sep 2024)  
